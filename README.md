@@ -281,4 +281,3 @@ Sesión complementaria utilizada durante la construcción del sistema:
 Desarrollado como proyecto académico — Programación Orientada a Objetos · 2026
 
 </div>
- 
